@@ -21,7 +21,7 @@ public class JavaApplication1 {
         System.out.println(GradeChecker.checkGrade(0));
         System.out.println(GradeChecker.checkGrade(4.909999999));
         System.out.println(GradeChecker.checkGrade(5));
-        System.out.println(GradeChecker.checkGrade(10.5));
+        System.out.println(GradeChecker.checkGrade(11));
         // ra mot trang thai khong hop le
         
         
